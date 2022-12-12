@@ -1,4 +1,5 @@
 # Capstone: Computer Vission applied to agricultural vehicles
+Repository to handle the project's code. 
 
 ## Code structure
 ```
