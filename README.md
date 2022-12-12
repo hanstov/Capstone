@@ -1,5 +1,7 @@
 # Capstone: Computer Vission applied to agricultural vehicles
 
+## Code structure
+```
 DSMaster_2203_Casptone_Computer_Vision
 |  README.md
 |  .gitignore
@@ -20,3 +22,4 @@ DSMaster_2203_Casptone_Computer_Vision
 |   |   __init__.py
 |   |   ...
 |   |
+```
